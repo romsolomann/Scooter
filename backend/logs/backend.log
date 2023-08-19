@@ -1,0 +1,603 @@
+3/11/2021, 2:01:25 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:10:02 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:10:29 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:11:22 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:49:43 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:53:51 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:56:45 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:58:40 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:03:22 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:03:56 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:04:47 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:11:41 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:12:55 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:15:47 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:16:38 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:14 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:02 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:14 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:31 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:49 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:35:27 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:36:20 AM - DEBUG - auth.service - login with username: user1 (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:36:20 AM - ERROR - Failed to Login Invalid username or password (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.service - signup with username: babush, fullname: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.route - new account created: {"username":"babush","password":"$2b$10$S8RNh7z.rh/jXfP3spEXy.pJY3ZpP/uhNvfjoykltSLQyt2dRmmba","fullname":"Babush","score":0,"_id":"604dd95d4269f61c0827a34f"} (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.service - login with username: babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:58 AM - INFO - Req from: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:40:32 AM - INFO - Req from: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:42:27 AM - DEBUG - auth.service - login with username: xsd (sid: piWrex37_bog1JCVC67j0dO7BjeI0huZ)
+3/14/2021, 11:42:27 AM - ERROR - Failed to Login Invalid username or password (sid: piWrex37_bog1JCVC67j0dO7BjeI0huZ)
+3/14/2021, 7:23:10 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:40:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:41:32 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:54:59 PM - DEBUG - auth.service - login with username: user1 (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:23 PM - DEBUG - auth.service - login with username: admin (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:30 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:54 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:57:29 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:16 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:21 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:40 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:46 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:59:31 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:00:04 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:00:33 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:11 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:27 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:41 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:17 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:35 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:42 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:09:26 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:11:32 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:12:53 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:18:48 PM - DEBUG - auth.service - login with username: user1 (sid: 3G8I8AppeJ_MKovbIzPxUkdGJ3N10uko)
+3/14/2021, 9:18:56 PM - DEBUG - auth.service - login with username: admin (sid: 3G8I8AppeJ_MKovbIzPxUkdGJ3N10uko)
+3/14/2021, 9:20:13 PM - DEBUG - auth.service - login with username: user1 (sid: 9QLgskceVyPBIGLgXpahjc9n0Gb_GrWo)
+3/14/2021, 9:20:28 PM - DEBUG - auth.service - login with username: admin (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:20:57 PM - INFO - Req from: Master Adminov (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:00 PM - INFO - Req from: Master Adminov (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:07 PM - ERROR - Failed to add review | {} (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:56 PM - ERROR - Failed to add review | {} (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:23:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:24:05 PM - DEBUG - auth.service - login with username: user1 (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:24:09 PM - INFO - Req from: Puki Normativi? (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:24:24 PM - ERROR - Failed to add review | {} (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:26:31 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:26:45 PM - DEBUG - auth.service - login with username: user1 (sid: veJ5BiXawh6oD22Id5ymSMxzVt8tIs1j)
+3/14/2021, 9:26:51 PM - INFO - Req from: Puki Normativi? (sid: veJ5BiXawh6oD22Id5ymSMxzVt8tIs1j)
+3/14/2021, 9:31:37 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:31:55 PM - DEBUG - auth.service - login with username: user1 (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:31:56 PM - INFO - Req from: Puki Normativi? (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:32:05 PM - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Namespace'
+    |     property 'server' -> object with constructor 'Server'
+    |     property 'nsps' -> object with constructor 'Object'
+    --- property '/' closes the circle (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:33:11 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:33:33 PM - DEBUG - auth.service - login with username: user1 (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:33:37 PM - INFO - Req from: Puki Normativi? (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:33:54 PM - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Namespace'
+    |     property 'server' -> object with constructor 'Server'
+    |     property 'nsps' -> object with constructor 'Object'
+    --- property '/' closes the circle (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:34:56 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:35:12 PM - DEBUG - auth.service - login with username: user1 (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:35:14 PM - INFO - Req from: Puki Normativi? (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:35:20 PM - DEBUG - Shouldnt happen, No socket in map (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:36:31 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:38:23 PM - DEBUG - auth.service - login with username: user1 (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:38:25 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:38:34 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:39:39 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:39:39 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:41:24 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:41:24 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:42:53 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:44:30 PM - DEBUG - auth.service - login with username: user1 (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:44:32 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:44:40 PM - DEBUG - Shouldnt happen, No socket in map (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:45:09 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:46:22 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:48:37 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:48:49 PM - DEBUG - auth.service - login with username: user1 (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:48:57 PM - INFO - Req from: Puki Normativi? (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:49:13 PM - DEBUG - Shouldnt happen, No socket in map (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:52:14 PM - INFO - Req from: Puki Normativi? (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:54:30 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:54:34 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:58:24 PM - DEBUG - auth.service - login with username: user1 (sid: woPga_au5KoatUIa-qKbDv30ar03ynIM)
+3/14/2021, 9:58:26 PM - INFO - Req from: Puki Normativi? (sid: woPga_au5KoatUIa-qKbDv30ar03ynIM)
+3/14/2021, 10:00:01 PM - DEBUG - auth.service - login with username: user1 (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:00:05 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:01:16 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:01:32 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:03:43 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:03:50 PM - DEBUG - auth.service - login with username: user1 (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:03:54 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:04:04 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:04:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:05:03 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:05:20 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:09:08 PM - DEBUG - auth.service - login with username: admin (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:09:12 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:12:24 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:13:57 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:13:57 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:16:29 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:16:29 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:19:40 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:19:40 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:19:53 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:19:53 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:22:13 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:22:14 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:22:34 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:22:34 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:23:29 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:23:29 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:23:44 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:23:45 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:25:16 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:28:08 PM - DEBUG - auth.service - login with username: admin (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:28:25 PM - DEBUG - auth.service - login with username: user1 (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:28:33 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:28:59 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:30:24 PM - INFO - Req from: Master Adminov (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:30:30 PM - DEBUG - Shouldnt happen, No socket in map (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:30:45 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:34:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:34:24 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:34:47 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:35:06 PM - DEBUG - auth.service - login with username: admin (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:35:09 PM - DEBUG - auth.service - login with username: user1 (sid: gkNYKgDVvHOPMhV0lF3Ly1g5UQ4VFEyC)
+3/14/2021, 10:35:23 PM - INFO - Req from: Puki Normativi? (sid: gkNYKgDVvHOPMhV0lF3Ly1g5UQ4VFEyC)
+3/14/2021, 10:35:42 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:35:49 PM - DEBUG - Shouldnt happen, No socket in map (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:39:09 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:27:55 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:28:10 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:31:09 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:31:32 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:31:56 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:19 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:40 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:34:38 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:34:40 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:35:10 PM - DEBUG - auth.service - login with username: user1 (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:35:13 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:35:34 PM - DEBUG - auth.service - login with username: admin (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:35:45 PM - INFO - Req from: Master Adminov (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:36:32 PM - INFO - Req from: Master Adminov (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:36:49 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:36:57 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:37:12 PM - DEBUG - auth.service - login with username: admin (sid: 1vZk5tmQYI4rKqcmmlyKxGU20Uexiw9M)
+3/14/2021, 11:37:17 PM - DEBUG - auth.service - login with username: puki (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:37:17 PM - ERROR - Failed to Login Invalid username or password (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:37:30 PM - DEBUG - auth.service - login with username: user1 (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:38:02 PM - INFO - Req from: Puki Normativi? (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:38:12 PM - INFO - Req from: Master Adminov (sid: 1vZk5tmQYI4rKqcmmlyKxGU20Uexiw9M)
+3/14/2021, 11:40:34 PM - INFO - Req from: Puki Normativi? (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:41:48 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:41:56 PM - DEBUG - auth.service - login with username: user1 (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:00 PM - INFO - Req from: Puki Normativi? (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:04 PM - DEBUG - Shouldnt happen, No socket in map (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:04 PM - ERROR - Failed to add review | ReferenceError: fafa is not defined (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:43:34 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:43:34 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:45:26 PM - DEBUG - auth.service - login with username: user1w (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:45:26 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:15 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:15 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:34 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:34 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:48 PM - DEBUG - auth.service - login with username: user1sa (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:48 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:58 PM - DEBUG - auth.service - login with username: user1 (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:48:03 PM - DEBUG - auth.service - login with username: user1s (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:48:03 PM - ERROR - Failed to Login Invalid username or password (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:49:41 PM - DEBUG - auth.service - login with username: user1csd (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:49:41 PM - ERROR - Failed to Login Invalid username or password (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:53:42 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:04:11 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:07:16 PM - DEBUG - auth.service - login with username: user1 (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:07:17 PM - INFO - Req from: Puki Normativi? (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:07:30 PM - ERROR - Failed to add review | ReferenceError: fafa is not defined (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:08:30 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:08:46 PM - DEBUG - auth.service - login with username: user1 (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:08:52 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:09:08 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:09:44 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:10:14 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:11:47 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:12:16 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:15:02 PM - DEBUG - auth.service - login with username: user1 (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:15:05 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:15:09 PM - DEBUG - Shouldnt happen, No socket in map (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:16:38 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:18:59 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:19:43 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:19:56 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:23:20 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:23:33 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:27:57 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:32:31 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:33:10 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:36:13 PM - DEBUG - auth.service - login with username: user1 (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:36:18 PM - INFO - Req from: Puki Normativi? (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:36:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:44:29 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:44:55 PM - DEBUG - auth.service - login with username: user1 (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:44:57 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:46:01 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:46:32 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:47:31 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:47:39 PM - DEBUG - auth.service - login with username: user1 (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 12:47:43 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 12:47:47 PM - DEBUG - Shouldnt happen, No socket in map (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:57:58 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:58:06 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:58:19 PM - DEBUG - auth.service - login with username: user1 (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:58:25 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:58:28 PM - DEBUG - Shouldnt happen, No socket in map (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:59:47 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:00:35 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:02:04 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:03:02 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:05 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:34 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:56 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:05:39 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:07:04 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:15:57 PM - DEBUG - auth.service - login with username: user1 (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:15:59 PM - INFO - Req from: Puki Normativi? (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:16:25 PM - INFO - Req from: Puki Normativi? (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:16:30 PM - DEBUG - Shouldnt happen, No socket in map (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:17:34 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:17:41 PM - DEBUG - auth.service - login with username: user1 (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:17:44 PM - INFO - Req from: Puki Normativi? (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:17:54 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:03 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:14 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:33 PM - INFO - Req from: Puki Normativi? (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:46 PM - DEBUG - auth.service - login with username: user1 (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:18:47 PM - INFO - Req from: Puki Normativi? (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:18:53 PM - DEBUG - Shouldnt happen, No socket in map (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:19:36 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:20:10 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:20:39 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:45:43 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:46:14 PM - DEBUG - auth.service - login with username: user1 (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:20 PM - INFO - Req from: Puki Normativi? (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:44 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:47:36 PM - DEBUG - auth.service - login with username: user1 (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:47:42 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:48:02 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:48:21 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/16/2021, 8:16:09 AM - INFO - Server is running on port: 3030 
+3/16/2021, 10:48:12 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:12:08 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:16:08 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:29:46 AM - INFO - Server is running on port: 3030 
+8/17/2023, 9:54:47 PM - INFO - Server is running on port: 3030 
+8/17/2023, 9:58:43 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:07:28 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:08:46 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:12:26 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:12:32 PM - ERROR - Failed to get users | TypeError: res.status is not a function 
+8/17/2023, 10:13:28 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:13:31 PM - ERROR - Failed to get users | TypeError: res.send is not a function 
+8/17/2023, 10:15:27 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:15:33 PM - ERROR - Failed to get users | TypeError: res.status is not a function 
+8/17/2023, 10:16:33 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:16:37 PM - ERROR - Failed to get users | TypeError: res.status is not a function 
+8/17/2023, 10:21:44 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:28:41 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:32:58 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:33:04 PM - ERROR - cannot insert user | Error: User existing 
+8/17/2023, 10:33:04 PM - ERROR - Failed to create user | Error: User existing 
+8/17/2023, 10:33:53 PM - ERROR - cannot insert user | Error: User existing 
+8/17/2023, 10:33:53 PM - ERROR - Failed to create user | Error: User existing 
+8/17/2023, 10:33:59 PM - INFO - Server is running on port: 3030 
+8/17/2023, 10:34:04 PM - ERROR - cannot insert user | Error: User existing 
+8/17/2023, 10:34:04 PM - ERROR - Failed to create user | Error: User existing 
+8/17/2023, 10:37:42 PM - DEBUG - auth.service - login with username: undefined 
+8/17/2023, 10:37:42 PM - ERROR - Failed to Login Invalid username or password 
+8/17/2023, 10:39:00 PM - DEBUG - rom | solo, rom11 
+8/17/2023, 10:39:00 PM - DEBUG - auth.service - signup with username: rom11, fullname: rom solo 
+8/17/2023, 10:39:00 PM - DEBUG - auth.route - new account created: {} 
+8/17/2023, 10:39:00 PM - DEBUG - auth.service - login with username: rom11 
+8/17/2023, 10:39:12 PM - DEBUG - auth.service - login with username: rom11 
+8/17/2023, 11:12:06 PM - INFO - Server is running on port: 3030 
+8/17/2023, 11:13:45 PM - INFO - Server is running on port: 3030 
+8/17/2023, 11:13:57 PM - DEBUG - auth.service - login with username: rom11 
+8/17/2023, 11:15:28 PM - INFO - Server is running on port: 3030 
+8/17/2023, 11:16:10 PM - DEBUG - auth.service - login with username: rom11 
+8/17/2023, 11:19:16 PM - INFO - Server is running on port: 3030 
+8/17/2023, 11:19:23 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 1:56:02 PM - INFO - Server is running on port: 3030 
+8/18/2023, 1:58:01 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 2:13:36 PM - DEBUG - RomTest | TEst, RomTest 
+8/18/2023, 2:13:36 PM - DEBUG - auth.service - signup with username: RomTest, fullname: RomTest TEst 
+8/18/2023, 2:13:36 PM - DEBUG - auth.route - new account created: {} 
+8/18/2023, 2:13:36 PM - DEBUG - auth.service - login with username: RomTest 
+8/18/2023, 2:15:08 PM - INFO - Server is running on port: 3030 
+8/18/2023, 2:16:33 PM - DEBUG - test | Tester, Romdasd 
+8/18/2023, 2:16:33 PM - DEBUG - auth.service - signup with username: Romdasd, fullname: test Tester 
+8/18/2023, 2:16:33 PM - DEBUG - auth.route - new account created: {} 
+8/18/2023, 2:16:33 PM - DEBUG - auth.service - login with username: Romdasd 
+8/18/2023, 2:38:23 PM - INFO - Server is running on port: 3030 
+8/18/2023, 2:38:29 PM - DEBUG - auth.service - login with username: Rom11 
+8/18/2023, 2:38:29 PM - ERROR - Failed to Login Invalid username or password 
+8/18/2023, 2:39:07 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 2:45:04 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 2:45:06 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 2:58:30 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 3:27:49 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 3:37:15 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 4:01:03 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 4:01:05 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 4:25:53 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 4:40:00 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:28:49 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:31:27 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:31:41 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:33:27 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:34:05 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:34:50 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:35:02 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:36:03 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:37:06 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:37:13 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:38:35 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:39:18 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:42:27 PM - INFO - Server is running on port: 3030 
+8/18/2023, 5:42:33 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 5:43:11 PM - INFO - Server is running on port: 3030 
+8/18/2023, 7:18:18 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 7:26:00 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 7:28:49 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 7:36:12 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 7:54:42 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 8:04:47 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 8:26:36 PM - DEBUG - auth.service - login with username: rom11 
+8/18/2023, 8:29:48 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 7:47:11 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:47:25 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 7:47:25 AM - ERROR - Failed to Login Error: secretOrPrivateKey must have a value 
+8/19/2023, 7:48:34 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:48:41 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 7:48:41 AM - ERROR - Failed to Login Error: secretOrPrivateKey must have a value 
+8/19/2023, 7:51:40 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:51:54 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 7:51:54 AM - ERROR - Failed to Login Error: secretOrPrivateKey must have a value 
+8/19/2023, 7:52:16 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:52:41 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:52:49 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:55:05 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:58:49 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:59:32 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:59:50 AM - INFO - Server is running on port: 3030 
+8/19/2023, 7:59:57 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 7:59:57 AM - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+8/19/2023, 7:59:57 AM - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+8/19/2023, 7:59:57 AM - ERROR - while finding user rom11 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+8/19/2023, 7:59:57 AM - ERROR - Failed to Login TypeError: Cannot read properties of undefined (reading 'startsWith') 
+8/19/2023, 8:01:07 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:06:08 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:06:37 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:07:09 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:07:23 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:11:35 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:12:05 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:12:48 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:13:54 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:16:52 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:16:59 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 8:18:30 AM - INFO - Server is running on port: 3030 
+8/19/2023, 8:18:37 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:06:05 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:07:02 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:07:12 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:07:12 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:09:49 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:09:58 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:10:08 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:10:08 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:11:31 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:11:33 AM - DEBUG - rom | poplo, rom12 
+8/19/2023, 10:11:33 AM - DEBUG - auth.service - signup with username: rom12, fullname: rom poplo 
+8/19/2023, 10:11:44 AM - ERROR - Cannot add user | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:11:44 AM - ERROR - Failed to signup MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:13:52 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:14:10 AM - ERROR - Cannot find scooters | MongooseError: Operation `scooters.find()` buffering timed out after 10000ms 
+8/19/2023, 10:14:10 AM - ERROR - Failed to get scooters | MongooseError: Operation `scooters.find()` buffering timed out after 10000ms 
+8/19/2023, 10:18:41 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:19:00 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:19:10 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:19:10 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:22:15 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:22:39 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:22:51 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:23:01 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:23:01 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:37:53 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:38:18 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:39:37 AM - INFO - Connect to DB 
+8/19/2023, 10:39:37 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:39:55 AM - INFO - Connect to DB 
+8/19/2023, 10:39:55 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:41:36 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:41:46 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:41:46 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:47:10 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:47:16 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:47:26 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:47:26 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:51:11 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:51:24 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:52:00 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:52:10 AM - ERROR - Error finding user rom11 | MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:52:10 AM - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms 
+8/19/2023, 10:54:56 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:55:02 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:55:02 AM - ERROR - Error finding user rom11 | Error: User not exists 
+8/19/2023, 10:55:02 AM - ERROR - Failed to Login Error: User not exists 
+8/19/2023, 10:55:05 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:55:05 AM - ERROR - Error finding user rom11 | Error: User not exists 
+8/19/2023, 10:55:05 AM - ERROR - Failed to Login Error: User not exists 
+8/19/2023, 10:56:09 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:56:19 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 10:56:44 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:58:04 AM - INFO - Server is running on port: 3030 
+8/19/2023, 10:58:11 AM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 11:59:50 AM - INFO - Server is running on port: 3030 
+8/19/2023, 12:01:18 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:01:34 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:05:22 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:05:28 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:05:32 PM - ERROR - Cannot add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:05:32 PM - ERROR - Failed to add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:06:10 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:06:16 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:06:19 PM - ERROR - Cannot add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:06:19 PM - ERROR - Failed to add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:08:04 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:08:13 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:08:22 PM - ERROR - Cannot add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:08:22 PM - ERROR - Failed to add scooter | ValidationError: status: Path `status` is required., yearOfManufacture: Path `yearOfManufacture` is required., model: Path `model` is required., currentLocation: Path `currentLocation` is required. 
+8/19/2023, 12:09:18 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:09:25 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:09:30 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:13:49 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:13:56 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 12:15:13 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:15:13 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:16:28 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:16:35 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:16:35 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:17:12 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:17:17 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:17:17 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:20:53 PM - ERROR - Cannot find scooters | MongoServerError: GeoJSON coordinates must be an array of coordinates 
+8/19/2023, 12:20:53 PM - ERROR - Failed to get scooters | MongoServerError: GeoJSON coordinates must be an array of coordinates 
+8/19/2023, 12:24:15 PM - INFO - Server is running on port: 3030 
+8/19/2023, 12:24:22 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 12:24:22 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 4:35:19 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:35:28 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 4:35:28 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 4:40:33 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 4:43:01 PM - ERROR - Cannot find scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 4:43:01 PM - ERROR - Failed to get scooters | CastError: Cast to number failed for value "undefined" (type undefined) at path "__QueryCasting__" for model "Scooter" 
+8/19/2023, 4:45:13 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:45:19 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 4:45:25 PM - ERROR - Error finding parking 64e0c6e14ab75ffa12a94d07 | Error: Parking spot with ID 64e0c6e14ab75ffa12a94d07 not found. 
+8/19/2023, 4:45:25 PM - ERROR - Failed to get parking | Error: Parking spot with ID 64e0c6e14ab75ffa12a94d07 not found. 
+8/19/2023, 4:46:23 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:46:23 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:46:23 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:46:42 PM - ERROR - Error finding parking 64e0c7a6329e6829869fea97 | Error: Parking spot with ID 64e0c7a6329e6829869fea97 not found. 
+8/19/2023, 4:46:42 PM - ERROR - Failed to get parking | Error: Parking spot with ID 64e0c7a6329e6829869fea97 not found. 
+8/19/2023, 4:46:51 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:46:51 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:46:51 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:47:20 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:47:24 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:47:24 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:47:24 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:48:07 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:48:12 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:48:12 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:48:12 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:52:03 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:52:11 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:52:11 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:52:11 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 4:54:41 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:57:11 PM - ERROR - Error adding failure to scooter 64e0c6e14ab75ffa12a94d07 | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:57:11 PM - ERROR - Cannot add failure | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:57:11 PM - ERROR - Failed to add failure | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:57:55 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:57:59 PM - ERROR - Error adding failure to scooter 64e0c6e14ab75ffa12a94d07 | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:57:59 PM - ERROR - Cannot add failure | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:57:59 PM - ERROR - Failed to add failure | TypeError: Cannot read properties of undefined (reading 'includes') 
+8/19/2023, 4:58:41 PM - INFO - Server is running on port: 3030 
+8/19/2023, 4:58:55 PM - ERROR - Error adding failure to scooter 64e0c6e14ab75ffa12a94d07 | TypeError: Cannot read properties of undefined (reading 'push') 
+8/19/2023, 4:58:55 PM - ERROR - Cannot add failure | TypeError: Cannot read properties of undefined (reading 'push') 
+8/19/2023, 4:58:55 PM - ERROR - Failed to add failure | TypeError: Cannot read properties of undefined (reading 'push') 
+8/19/2023, 4:59:01 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:01:43 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:04:33 PM - ERROR - Failed to get scooter | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+8/19/2023, 5:04:42 PM - ERROR - Failed to get scooter | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+8/19/2023, 5:06:28 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:10:23 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:18:01 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:19:35 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:19:38 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:19:38 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:19:38 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:33 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:20:44 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:44 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:44 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:59 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:59 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:20:59 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:22:04 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:22:08 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:22:08 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:22:08 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:23:25 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:23:46 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:23:46 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:23:46 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:26:48 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:26:58 PM - ERROR - Cannot update failure undefined | Error: Failure with ID undefined not found. 
+8/19/2023, 5:26:58 PM - ERROR - Error closing failure 64e0cd5404745909c6695703 | Error: Failure with ID undefined not found. 
+8/19/2023, 5:26:58 PM - ERROR - Failed to update failure | Error: Failure with ID undefined not found. 
+8/19/2023, 5:27:51 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:32:19 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:38:10 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:39:21 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:39:58 PM - ERROR - Cannot find scooters | MongoServerError: Loop is not closed: [ [ 34.781101, 32.093289 ], [ 34.781102, 32.093289 ], [ 34.781102, 32.09329 ], [ 34.781101, 32.09329 ] ] 
+8/19/2023, 5:39:58 PM - ERROR - Failed to get scooters | MongoServerError: Loop is not closed: [ [ 34.781101, 32.093289 ], [ 34.781102, 32.093289 ], [ 34.781102, 32.09329 ], [ 34.781101, 32.09329 ] ] 
+8/19/2023, 5:43:15 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:45:08 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 5:45:08 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 5:45:08 PM - ERROR - Failed to get parking | MongoServerError: $geoNear, $near, and $nearSphere are not allowed in this context 
+8/19/2023, 5:47:40 PM - INFO - Server is running on port: 3030 
+8/19/2023, 5:47:56 PM - ERROR - Error counting scooters at parking 64df9266f1a36131e94f83b3 | MongoServerError: error processing query: ns=scooter_db.scootersTree: $and
+    parkingId $eq ObjectId('64df9266f1a36131e94f83b3')
+    GEONEAR  field=location maxdist=1.79769e+308 isNearSphere=0
+Sort: {}
+Proj: {}
+ planner returned error :: caused by :: unable to find index for $geoNear query 
+8/19/2023, 5:47:56 PM - ERROR - Error finding parking 64df9266f1a36131e94f83b3 | MongoServerError: error processing query: ns=scooter_db.scootersTree: $and
+    parkingId $eq ObjectId('64df9266f1a36131e94f83b3')
+    GEONEAR  field=location maxdist=1.79769e+308 isNearSphere=0
+Sort: {}
+Proj: {}
+ planner returned error :: caused by :: unable to find index for $geoNear query 
+8/19/2023, 5:47:56 PM - ERROR - Failed to get parking | MongoServerError: error processing query: ns=scooter_db.scootersTree: $and
+    parkingId $eq ObjectId('64df9266f1a36131e94f83b3')
+    GEONEAR  field=location maxdist=1.79769e+308 isNearSphere=0
+Sort: {}
+Proj: {}
+ planner returned error :: caused by :: unable to find index for $geoNear query 
+8/19/2023, 5:55:02 PM - INFO - Server is running on port: 3030 
+8/19/2023, 6:03:11 PM - DEBUG - rom | test, Rommos 
+8/19/2023, 6:03:11 PM - DEBUG - auth.service - signup with username: Rommos, fullname: rom test 
+8/19/2023, 6:03:11 PM - DEBUG - auth.route - new account created: {"expiresIn":604800,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGUwZDlhZjhkMGI3YTc3OWU1N2E3N2IiLCJ1c2VybmFtZSI6IlJvbW1vcyIsImZpcnN0TmFtZSI6InJvbSIsImxhc3ROYW1lIjoidGVzdCIsImVtYWlsIjoidGVzdEBwaS5jb20iLCJpYXQiOjE2OTI0NTczOTEsImV4cCI6MTY5MzA2MjE5MX0.Uq6NLtLxyLU_SUrQ4UacwXeO4Gnn1qxt-uqyDHkpX90"} 
+8/19/2023, 6:03:11 PM - DEBUG - auth.service - login with username: Rommos 
+8/19/2023, 6:04:03 PM - ERROR - Cannot add parking | ValidationError: address.location: Path `address.location` is required. 
+8/19/2023, 6:04:03 PM - ERROR - Failed to add parking | ValidationError: address.location: Path `address.location` is required. 
+8/19/2023, 6:04:41 PM - ERROR - Cannot add parking | ValidationError: address.location: Path `address.location` is required. 
+8/19/2023, 6:04:41 PM - ERROR - Failed to add parking | ValidationError: address.location: Path `address.location` is required. 
+8/19/2023, 6:05:39 PM - INFO - Server is running on port: 3030 
+8/19/2023, 6:08:32 PM - INFO - Server is running on port: 3030 
+8/19/2023, 6:16:00 PM - DEBUG - auth.service - login with username: rom11 
+8/19/2023, 6:16:12 PM - DEBUG - auth.service - login with username: rom11 
